@@ -33,12 +33,14 @@ A Python-based scraper that extracts job listings from [Naukri.com](https://www.
 
 ```bash
 pip install selenium beautifulsoup4 pandas openpyxl
+```
 
 
 ### How to run 
 
 ```bash 
 python naukri_scraper.py
+```
 
 
 
